@@ -1,0 +1,7 @@
+{
+  "name": "Remix: DR. ELDOR LOR",
+  "description": "An advanced smart clinical portal featuring interactive neurology, hepatology, and urology diagnostic check modules, a DNA matching tracker, and a live virtual health assistant powered by Gemini.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
